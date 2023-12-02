@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsAppAssignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_profile_fragment">hello_profile_fragment</string>
+    <string name="hello_save_fragment">hello_save_fragment</string>
+</resources>
